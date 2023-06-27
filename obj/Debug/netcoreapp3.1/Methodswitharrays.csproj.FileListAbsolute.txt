@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Methodswitharrays/bin/Debug/netcoreapp3.1/Methodswitharrays.deps.json
+/Users/michaelkhanda/Desktop/Methodswitharrays/bin/Debug/netcoreapp3.1/Methodswitharrays.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Methodswitharrays/bin/Debug/netcoreapp3.1/Methodswitharrays.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Methodswitharrays/bin/Debug/netcoreapp3.1/Methodswitharrays.dll
+/Users/michaelkhanda/Desktop/Methodswitharrays/bin/Debug/netcoreapp3.1/Methodswitharrays.pdb
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.dll
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.pdb
+/Users/michaelkhanda/Desktop/Methodswitharrays/obj/Debug/netcoreapp3.1/Methodswitharrays.genruntimeconfig.cache
